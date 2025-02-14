@@ -48,7 +48,7 @@ public class App {
                 System.out.println(randomNumber);
                 break;
         }
-        System.out.printf("Question: %s Well here is my answer: %s", question, answer);
+        System.out.printf("Question: %s Well here is my answer: %s\n", question, answer);
         scanner.close();
     }
 }
